@@ -9,7 +9,7 @@
 ☠️ I'm known for weirdness and dark humor but i don't bite. <br>
 ☕ and I love Coffee. <br> 
 
-**NOTE: See <RAW> or <Code> Preview to read the ASCII art...**
+**NOTE: See _RAW_ or _Code_ Preview to read the ASCII art...**
 
 '   _   __           _        ___  ____ _   _                 
 '  | | / /          | |       |  \/  (_| | | |                
