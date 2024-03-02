@@ -1,24 +1,35 @@
 # list of the items in the Warehouse
-items = ["set-n-forget cooker", "washing machine", "thermal mass refrigerator", "sous-vide cooker", "electric water boiler",
-          "energy regulator", "thermal immersion circulator","air conditioner", "energy regulator", "internet refrigerator",
-          "clothes dryer", "turkey fryer", "beverage opener", "home server", "vacuum cleaner",
-          "humidifier", "panini sandwich grill","flattop grill","microwave oven","icebox"]
+items = ["set-n-forget cooker", "electric water boiler", "energy regulator-1", "turkey fryer", "microwave oven",
+         "thermal immersion circulator", "panini sandwich grill", "washing machine", "thermal mass refrigerator", "sous-vide cooker",
+         "energy generator-2", "air conditioner","internet refrigerator","beverage opener","home server",
+         "flattop grill", "icebox","halogen oven","sewing machine","embroidery machine"
+         "pneumatic vacuum", "aroma lamp", "coffee percolator","convection microwave","food steamer"]
 
-aisle = [1,3,5,3,1,
-         4,2,6,1,6,
-         2,1,6,4,5,
-         4,2,4,1,3,]
+aisle = [1, 1, 1, 1, 1,
+         2, 2, 2, 2, 2,
+         3, 3, 3, 3, 3,
+         4, 4, 4, 4, 4,
+         5, 5, 5, 5, 5
+         ]
 
-price = [2949,2584,1686,2958,4590,
-         4129,3656,2389,564,2361,
-         2671,4791,3812,4148,864,
-         2690,3564,1545,4390,2405]
+price = [2949, 4590, 564, 4791, 4390,
+         3656, 3564, 2584, 1686, 2958,
+         4129, 2389, 2361, 3812, 4148,
+         2923, 1128, 1402, 2844, 2780,
+         1996, 1617, 2738, 2506, 3228
+         ]
 
-weight = [1458,1408,1313,751,1302,
-          646,715,957,598,1193,
-          1079,973,1002,934,1346,
-          792,1241,1352,616,1275]
-capacity = 10000 # for the capacity of the truck
+weight = [1458, 1302, 598, 973, 616,
+          715, 1241, 1408, 1313, 751,
+          646, 957, 1193, 1002, 934,
+          1585, 739, 1452, 973, 1973,
+          1223, 155, 950, 1470, 1841
+          ]
+
+
+truck_capacity = 20000 # for the capacity of the truck
+fl_capacity = 2000 # The capacity of the forklift
+
 
 class Items:
   def __init__(self, name, aisle, price, weight):
@@ -56,6 +67,7 @@ def tab_knapsack(cap,items):
         table[i][j] = 0
       elif items[i-1].get_weight() <= j:
         table[i][j] = max(items[i-1].get_price() + table[i-1][j - items[i-1].get_weight()], table[i-1][j])
+  print(table[i][j])
   
   k = n
   l = cap
@@ -68,14 +80,11 @@ def tab_knapsack(cap,items):
       l-=items[k].get_weight()
 
   items.sort(key=lambda x: x.get_aisle())
-  aisles = []
   for i in items:
-    print(f"{i.get_name()}, is in aisle {i.get_aisle()}, {i.get_weight()}")
-    aisles.append(i.get_aisle())
-  return list(set(aisles))
-
+    print(f"{i.get_name()} will be picked @ aisle {i.get_aisle()}")
+  return items
 
 
 #To test:
 item_menu = menu_of_items(items, aisle, price, weight)
-print(tab_knapsack(capacity, item_menu))
+tab_knapsack(truck_capacity, item_menu)
