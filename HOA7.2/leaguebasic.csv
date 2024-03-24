@@ -1,0 +1,168 @@
+,champion,role,kill,death,assist,pentapermatch
+0,Smolder,AD Carry,7.7,6.1,7.1,0.0106
+1,Kai'Sa,AD Carry,8.5,6.3,6.7,0.0026
+2,Karma,"Mid, Support",4.2,5.9,10.9,0.0002
+3,Lee Sin,Jungler,7.5,6.1,8.7,0.0007
+4,Ezreal,AD Carry,7.3,6.1,7.2,0.0013
+5,Volibear,"Jungler, Top",5.7,5.7,8.0,0.0003
+6,Senna,"Support, AD Carry",5.5,6.3,12.1,0.0009
+7,Ahri,Mid,6.6,5.4,7.8,0.0015
+8,Lux,"Support, Mid",5.2,6.3,11.0,0.0001
+9,Yasuo,Mid,6.6,7.3,5.5,0.0012
+10,Jinx,AD Carry,7.4,6.2,7.3,0.0064
+11,Yone,"Mid, Top",6.3,7.0,5.2,0.0011
+12,Caitlyn,AD Carry,6.9,6.4,6.9,0.0014
+13,Ashe,"AD Carry, Support",5.8,6.8,9.9,0.0009
+14,Aatrox,Top,6.1,6.2,5.4,0.0023
+15,Hwei,"Mid, Support",5.7,6.2,9.1,0.0005
+16,Thresh,Support,2.1,6.7,15.1,0.0
+17,Jhin,AD Carry,8.1,5.8,8.2,0.0024
+18,Kayn,Jungler,8.2,7.0,7.3,0.0017
+19,Viego,Jungler,7.7,6.2,7.0,0.0024
+20,Gragas,"Top, Jungler",6.1,5.5,7.6,0.0005
+21,Lucian,AD Carry,8.2,6.5,6.7,0.0017
+22,Darius,Top,7.1,6.3,4.4,0.0042
+23,Nautilus,Support,2.1,6.7,13.9,0.0
+24,Shaco,"Jungler, Support",7.9,6.5,8.8,0.0004
+25,Vayne,"AD Carry, Top",7.5,6.7,5.4,0.0065
+26,Jax,"Top, Jungler",6.3,6.5,5.5,0.001
+27,Miss Fortune,AD Carry,8.3,6.6,7.4,0.0045
+28,Brand,"Support, Jungler",5.7,7.2,9.7,0.0002
+29,Akali,"Mid, Top",8.7,6.1,4.9,0.0012
+30,Sylas,Mid,8.2,7.2,6.7,0.0014
+31,Zed,Mid,8.9,6.5,5.7,0.0009
+32,Janna,Support,2.2,5.5,15.4,0.0
+33,Lulu,Support,1.6,5.4,15.1,0.0
+34,Varus,AD Carry,7.6,6.5,7.1,0.0024
+35,Master Yi,Jungler,8.7,7.2,5.7,0.0103
+36,Garen,Top,6.6,5.2,4.4,0.0002
+37,Blitzcrank,Support,2.1,6.5,14.3,0.0
+38,Briar,Jungler,9.1,7.8,7.5,0.0019
+39,Malphite,Top,5.0,5.2,8.4,0.0001
+40,Pyke,Support,7.1,7.6,9.7,0.001
+41,Zac,"Jungler, Top",4.7,4.9,10.9,0.0
+42,Mordekaiser,Top,6.8,6.2,5.0,0.0014
+43,Kha'Zix,Jungler,8.9,6.3,6.5,0.0014
+44,Irelia,"Top, Mid",7.2,7.3,5.0,0.0019
+45,Twisted Fate,Mid,6.0,6.8,7.9,0.0005
+46,Veigar,Mid,7.4,6.2,6.5,0.0009
+47,Twitch,AD Carry,9.3,6.9,7.4,0.004
+48,Renekton,Top,6.1,5.9,5.5,0.0008
+49,Zeri,AD Carry,8.1,6.1,6.8,0.0074
+50,Samira,AD Carry,10.2,7.2,5.6,0.0181
+51,Katarina,Mid,10.2,7.0,5.8,0.0092
+52,Jayce,"Top, Mid",6.9,6.8,6.1,0.0011
+53,Camille,"Support, Top",6.3,7.6,8.8,0.0004
+54,Vi,Jungler,6.4,6.2,8.6,0.0004
+55,Maokai,Support,2.5,6.4,13.3,0.0
+56,Xerath,"Support, Mid",5.9,5.9,10.4,0.0002
+57,Morgana,Support,3.5,6.4,12.9,0.0
+58,Pantheon,"Support, Top",7.5,7.4,7.9,0.0006
+59,Ekko,"Jungler, Mid",8.1,6.2,6.7,0.0018
+60,Zyra,Support,3.7,6.5,11.3,0.0
+61,Graves,Jungler,7.6,6.0,7.1,0.0018
+62,Aurelion Sol,Mid,7.4,6.0,8.3,0.0041
+63,Leona,Support,2.0,6.4,14.4,0.0
+64,Nocturne,Jungler,7.4,6.3,8.3,0.0004
+65,Milio,Support,0.9,4.5,15.4,0.0
+66,Tristana,"AD Carry, Mid",7.9,6.3,5.7,0.0029
+67,Diana,"Jungler, Mid",7.9,7.0,6.8,0.0011
+68,Nami,Support,1.8,5.6,16.3,0.0
+69,Sett,Top,6.1,6.7,5.6,0.0009
+70,Yuumi,Support,1.5,3.9,16.3,0.0
+71,Jarvan IV,Jungler,5.8,6.0,13.1,0.0004
+72,Tahm Kench,"Top, Support",4.9,5.5,9.1,0.0002
+73,Draven,AD Carry,8.7,7.0,5.7,0.0047
+74,Warwick,"Jungler, Top",7.5,7.1,7.8,0.0004
+75,Seraphine,Support,3.4,5.9,13.2,0.0001
+76,Taliyah,"Jungler, Mid",6.6,6.5,9.1,0.0007
+77,Poppy,"Jungler, Top",5.0,5.6,9.2,0.0001
+78,Teemo,Top,5.5,6.7,6.5,0.0005
+79,Swain,"Support, Mid",5.3,6.8,11.2,0.0006
+80,Rakan,Support,1.5,5.7,15.1,0.0
+81,Wukong,"Jungler, Top",6.9,5.9,7.0,0.001
+82,Fiora,Top,5.9,6.6,4.3,0.001
+83,Kassadin,Mid,8.4,5.7,5.7,0.0056
+84,Trundle,Top,5.1,6.7,5.3,0.0003
+85,Soraka,Support,0.9,5.6,15.3,0.0
+86,Xin Zhao,Jungler,6.6,6.6,8.3,0.0005
+87,Neeko,"Support, Mid",5.0,6.2,9.2,0.0002
+88,Rengar,Jungler,8.5,7.2,6.4,0.0014
+89,Syndra,Mid,7.0,6.1,6.8,0.0006
+90,Kog'Maw,AD Carry,8.4,6.8,7.2,0.0034
+91,Illaoi,Top,5.2,6.8,4.7,0.0004
+92,Rek'Sai,"Jungler, Top",6.6,5.4,8.3,0.0003
+93,Fizz,Mid,9.2,6.4,5.8,0.0012
+94,Yorick,Top,4.5,5.7,4.4,0.0005
+95,Aphelios,AD Carry,6.9,6.5,6.1,0.0036
+96,Bel'Veth,Jungler,7.3,6.2,6.6,0.0008
+97,Riven,Top,6.9,6.3,4.8,0.0016
+98,Kindred,Jungler,7.4,6.9,7.4,0.0013
+99,Alistar,Support,1.9,6.5,14.5,0.0
+100,Orianna,Mid,5.4,5.6,9.1,0.0005
+101,LeBlanc,Mid,7.7,5.4,6.7,0.0002
+102,Azir,Mid,5.9,5.8,6.4,0.0019
+103,Shen,Top,4.3,5.4,10.5,0.0
+104,Urgot,Top,6.8,6.0,5.0,0.0008
+105,Evelynn,Jungler,9.2,6.1,7.2,0.0003
+106,Dr. Mundo,Top,4.4,5.2,6.2,0.0005
+107,Udyr,"Jungler, Top",5.2,5.8,7.3,0.0002
+108,Sivir,AD Carry,6.3,5.8,8.5,0.0027
+109,Nidalee,Jungler,7.4,5.8,8.1,0.0005
+110,Gangplank,Top,6.7,6.6,6.5,0.0023
+111,Malzahar,Mid,5.2,5.9,7.9,0.0
+112,Rell,Support,2.0,6.4,16.1,0.0
+113,Vladimir,"Mid, Top",6.7,5.4,5.8,0.0035
+114,Xayah,AD Carry,7.2,6.2,6.9,0.0026
+115,Nasus,Top,4.8,5.4,5.6,0.0005
+116,Kayle,Top,5.7,6.1,5.6,0.0034
+117,Gwen,Top,6.4,6.2,4.7,0.0022
+118,Braum,Support,1.5,5.8,15.7,0.0
+119,K'Sante,Top,4.5,5.6,6.3,0.0004
+120,Sion,Top,4.5,7.3,7.0,0.0001
+121,Naafiri,Mid,8.7,6.7,6.0,0.0021
+122,Amumu,Jungler,4.4,6.4,11.3,0.0
+123,Vel'Koz,"Support, Mid",5.6,6.5,9.9,0.0001
+124,Kalista,AD Carry,8.5,6.9,6.2,0.0034
+125,Vex,Mid,7.7,6.4,7.8,0.001
+126,Talon,"Mid, Jungler",8.8,6.8,6.2,0.0009
+127,Rumble,Top,6.8,6.4,7.1,0.0003
+128,Ornn,Top,3.8,5.1,8.7,0.0
+129,Lillia,Jungler,6.4,5.7,8.9,0.0012
+130,Qiyana,Mid,8.9,7.0,5.9,0.0009
+131,Hecarim,Jungler,7.5,6.3,8.5,0.0016
+132,Gnar,Top,5.3,6.0,6.3,0.0007
+133,Rammus,Jungler,4.3,5.8,11.7,0.0
+134,Lissandra,Mid,5.8,6.4,9.2,0.0009
+135,Viktor,Mid,6.4,6.0,7.0,0.0011
+136,Bard,Support,2.7,5.6,14.5,0.0
+137,Fiddlesticks,Jungler,5.8,6.4,9.7,0.0003
+138,Nilah,AD Carry,8.6,6.6,6.3,0.0075
+139,Karthus,Jungler,7.9,7.6,9.9,0.0006
+140,Annie,Mid,6.5,6.4,8.6,0.001
+141,Olaf,Top,7.0,6.6,4.9,0.003
+142,Tryndamere,Top,6.1,6.3,4.2,0.001
+143,Nunu & Willump,Jungler,5.6,7.1,11.6,0.0002
+144,Akshan,Mid,8.6,6.5,5.8,0.0019
+145,Sejuani,Jungler,4.2,5.4,11.6,0.0
+146,Galio,Mid,5.4,6.1,10.2,0.0003
+147,Zilean,Support,2.3,4.9,14.0,0.0
+148,Anivia,Mid,5.8,5.0,8.0,0.0004
+149,Shyvana,Jungler,6.7,6.0,6.7,0.0019
+150,Cho'Gath,Top,6.1,6.0,6.4,0.0003
+151,Cassiopeia,"Mid, Top",6.7,6.2,6.1,0.0011
+152,Zoe,Mid,7.0,5.9,7.5,0.0003
+153,Heimerdinger,"Top, Support, Mid",4.9,6.5,7.2,0.0002
+154,Sona,Support,2.3,5.9,15.1,0.0001
+155,Singed,Top,4.4,6.7,8.5,0.0004
+156,Renata Glasc,Support,1.9,6.2,15.2,0.0
+157,Elise,Jungler,7.6,6.2,8.0,0.0003
+158,Ziggs,"AD Carry, Mid",5.7,6.0,8.5,0.0003
+159,Kled,Top,7.2,6.3,6.7,0.0007
+160,Ivern,Jungler,2.6,4.9,14.0,0.0
+161,Quinn,Top,7.5,7.2,6.6,0.0008
+162,Ryze,Mid,5.7,5.7,6.6,0.0013
+163,Corki,Mid,6.9,6.3,7.1,0.0016
+164,Kennen,Top,6.0,6.1,6.5,0.0007
+165,Taric,Support,1.9,6.1,15.3,0.0
+166,Skarner,Jungler,4.4,5.7,9.2,0.0003
