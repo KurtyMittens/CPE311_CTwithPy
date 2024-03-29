@@ -4,5 +4,5 @@ This Module is the same as the first activity of the last moddule, when we are c
 This API or the 'National Oceanic and Atmospheric Administration' NCDC API is the one that being used to this modue.
 
 **First I've learned to understand and read Documentation of a certain API or the items provided to give you knowledge about the software you want to use**
-- if i don't know or uunderstand what to do, I refer first to the documentation before going to Internet or an AI.
-- think of it as a manual
+- if i don't know or understand what to do, I refer first to the documentation before going to Internet or an AI.
+- think of it as a manual even though some documentation has some overwhelming infoormation to throw at you.
