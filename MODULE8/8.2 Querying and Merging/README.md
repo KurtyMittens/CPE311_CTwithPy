@@ -11,8 +11,8 @@ Querying in Pandas/Dataframes are easy and easy to remember because of it's simi
    - uses bitwise to get what he/she wanted/desired in the query
    -  ![image](https://github.com/KurtyMittens/CPE311_CTwithPy/assets/134671520/3759258b-bd2a-48d9-a69a-a482493b2943)
 
-**Merging folllows the JOIN iin SQL**
-- using DataFrame.merge() we can perform JJoins such as left, right, inner joins and many more.
+**Merging folllows the JOIN in SQL**
+- using DataFrame.merge() we can perform Joins such as left, right, inner joins and many more. (Inner Join as the default)
 - ![image](https://github.com/KurtyMittens/CPE311_CTwithPy/assets/134671520/46cbd53a-6cb3-4908-943f-5a1fac9cf026)
 - ![image](https://github.com/KurtyMittens/CPE311_CTwithPy/assets/134671520/b6342607-77e7-452a-9590-2fb752da8c3d)
 
